@@ -1,2 +1,4 @@
 pypdf
-langchain-google-genai langgraph langchain-community
+langchain-google-genai
+langgraph
+langchain-community
